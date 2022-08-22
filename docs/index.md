@@ -8,6 +8,7 @@
 
 ### [ダウンロードファイル](#downloadfile)
 ### [設定ツール使用方法](#how-to-use-the-setting-tool)
+### [ファームウェアアップデート方法](Firmware update method)
 ### [各部名称・添付物](#part-namesattachments)
 ### [Q&A](#faq)
 
@@ -16,6 +17,8 @@
 ## DownloadFile
 
 ## How to use the setting tool
+
+## Firmware update method
 
 ## Part names,attachments
 
