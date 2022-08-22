@@ -10,6 +10,6 @@
 
 ## [HPリンク]() 
 
-## [サポートサイト入り口]()
+## [サポートサイト入り口](https://bit-trade-one.github.io/BTIRSW-Remote-KawaruKun/)
 
 
