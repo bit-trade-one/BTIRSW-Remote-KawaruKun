@@ -6,6 +6,7 @@
 
 ### [BTOHPリンク](#btohplink)
 ### [ダウンロードファイル](#downloadfile)
+### [設定ツール使用方法](#how-to-use-the-setting-tool)
 ### [各部名称・添付物](#part-namesattachments)
 ### [Q&A](#faq)
 
@@ -14,6 +15,8 @@
 ## BTOHPLink
 
 ## DownloadFile
+
+## How to use the setting tool
 
 ## Part names,attachments
 
