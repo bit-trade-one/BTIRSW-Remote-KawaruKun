@@ -8,7 +8,7 @@
 ここはリモート変わる君のGitHubリポジトリです。
 
 
-## [HPリンク]() 
+## [HPリンク](http://bit-trade-one.co.jp/btirsw) 
 
 ## [サポートサイト入り口](https://bit-trade-one.github.io/BTIRSW-Remote-KawaruKun/)
 
