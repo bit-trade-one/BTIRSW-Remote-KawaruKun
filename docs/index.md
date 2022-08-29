@@ -9,7 +9,7 @@
 
 
 ### [設定ツール使用方法](#how-to-use-the-setting-tool)
-#### [赤外線信号の記録]()
+#### [赤外線信号の記録](#infrared-signal-recording)
 #### [ボタン設定]()
 #### [入力パターン設定]
 ### [ファームウェアアップデート方法](#firmware-update-method)
@@ -33,8 +33,8 @@
 
 
 
-### Infrared signal recording
-赤外線信号の記録  
+#### Infrared signal recording
+## 赤外線信号の記録  
 
 まず、保存する箇所を選択します。  
 保存したい箇所の「No.??」のボタンを押してください。   
