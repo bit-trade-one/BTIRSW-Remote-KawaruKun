@@ -39,6 +39,7 @@
 設定ツールを起動する前にBTIRSW リモート変わる君自体に赤外線送受信モジュ―ル・外部スイッチなどを接続する必要があります。  
 下記画像を参考に接続してください。
 ![image](https://user-images.githubusercontent.com/85532743/187631525-4bd1715b-d424-4468-9108-6aa7c5a37a56.png)  
+[クリックで拡大](https://user-images.githubusercontent.com/85532743/187631525-4bd1715b-d424-4468-9108-6aa7c5a37a56.png)  
 
 ソフトを起動するとこの様な画面が表示されます。  
 ![image](https://user-images.githubusercontent.com/85532743/187110138-1d444b2b-8fd2-44cc-a9ff-278468a351cc.png)  
@@ -96,7 +97,11 @@
 短・長のボタン押しのパターンにより1つのボタンで多数の信号を送信できます。  
 パターン入力を選択すると使用できます。  
 選択後は「設定」を押して書き込んでください。  
-![image](https://user-images.githubusercontent.com/85532743/187630098-3f4e6a04-3f83-4236-a7f4-c3fe440e9ab7.png)
+![image](https://user-images.githubusercontent.com/85532743/187630098-3f4e6a04-3f83-4236-a7f4-c3fe440e9ab7.png)  
+パターン入力が設定されている場合、ここでスイッチを押すとパターン入力の確認ができます。  
+長押しの時間設定も可能です。書き込むとパターン表示に反映されます。  
+![image](https://user-images.githubusercontent.com/85532743/187636385-b82d7602-0ab7-4bb1-9999-52bc6c01945a.png)
+
 
 使用するパターンは「入力パターン設定」より設定を行います。  
 入力パターン設定のタブに移動すると設定を行えます。  
@@ -144,4 +149,5 @@ __入力パターン設定タブ__
 
 こちらの画像を参考に接続を行ってください。
 ![image](https://user-images.githubusercontent.com/85532743/187631525-4bd1715b-d424-4468-9108-6aa7c5a37a56.png)  
+[クリックで拡大](https://user-images.githubusercontent.com/85532743/187631525-4bd1715b-d424-4468-9108-6aa7c5a37a56.png)  
 変わる君と同じ接続をしないでください。
