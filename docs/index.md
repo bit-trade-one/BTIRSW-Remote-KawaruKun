@@ -10,7 +10,7 @@
 
 ## 項目リンク
 
-### [ダウンロードファイル](#downloadfile)  
+### [設定ツールダウンロード](#setting-tool-download)【必須】  
 
 ### [設定ツール使用方法](#how-to-use-the-setting-tool)
 #### ・[赤外線信号の記録](#infrared-signal-recording)
@@ -25,8 +25,8 @@
 
 ---
 
-#### DownloadFile 
-## ダウンロードファイル
+#### Setting tool download
+## 設定ツールダウンロード
 ダウンロード・展開してお使いください。
 
 ・設定ツールv100 __[【クリックでダウンロード】](https://github.com/bit-trade-one/BTIRSW-Remote-KawaruKun/releases/download/v100/RemoteKawaruKun_v100.zip)__
@@ -36,7 +36,7 @@
 #### How to use the setting tool
 ## 設定ツール使用方法  
 
-BTIRSW リモート変わる君自体に赤外線送受信モジュ―ル・外部スイッチなどを接続する必要があります。  
+設定ツールを起動する前にBTIRSW リモート変わる君自体に赤外線送受信モジュ―ル・外部スイッチなどを接続する必要があります。  
 下記画像を参考に接続してください。
 ![image](https://user-images.githubusercontent.com/85532743/187631525-4bd1715b-d424-4468-9108-6aa7c5a37a56.png)  
 
