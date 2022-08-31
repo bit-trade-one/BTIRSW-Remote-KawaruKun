@@ -94,9 +94,7 @@
 短・長のボタン押しのパターンにより1つのボタンで多数の信号を送信できます。  
 パターン入力を選択すると使用できます。  
 選択後は「設定」を押して書き込んでください。  
-![image](https://user-images.githubusercontent.com/85532743/187606378-ca8c4a2d-17c1-4740-a54c-84897a4f2e78.png)  
-  
-![image](https://user-images.githubusercontent.com/85532743/187606784-779523cb-1534-4a6e-8c90-0c31177850cb.png)  
+![image](https://user-images.githubusercontent.com/85532743/187630098-3f4e6a04-3f83-4236-a7f4-c3fe440e9ab7.png)
 
 使用するパターンは「入力パターン設定」より設定を行います。
 入力パターン設定のタブに移動すると設定を行えます。
