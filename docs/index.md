@@ -7,31 +7,39 @@
 
 # 項目リンク
 
+### [ダウンロードファイル](#downloadfile)  
 
 ### [設定ツール使用方法](#how-to-use-the-setting-tool)
-#### [赤外線信号の記録](#infrared-signal-recording)
-#### [ボタン設定]()
-#### [入力パターン設定]
+#### ・[赤外線信号の記録](#infrared-signal-recording)
+#### ・[ボタン設定](#button-setting)
+#### ・[入力パターン設定](#input-pattern-setting)
+
 ### [ファームウェアアップデート方法](#firmware-update-method)
 ### [各部名称・添付物](#part-namesattachments)
 ### [Q&A](#faq)
 
-# ドキュメント
-## DownloadFile 
-ダウンロードファイル
+---
 
-## How to use the setting tool
-設定ツール使用方法  
+#### DownloadFile 
+## ダウンロードファイル
+ダウンロード・展開してお使いください。
+
+・設定ツールv100 __[【クリックでダウンロード】](https://github.com/bit-trade-one/BTIRSW-Remote-KawaruKun/releases/download/v100/RemoteKawaruKun_v100.zip)__
+
+---
+
+#### How to use the setting tool
+## 設定ツール使用方法  
 
 本体に貼り付けてあるシールを頼りに赤外線送受信モジュール・スイッチを接続してください。
 
 ソフトを起動するとこの様な画面が表示されます。  
-![image](https://user-images.githubusercontent.com/85532743/187110138-1d444b2b-8fd2-44cc-a9ff-278468a351cc.png)
+![image](https://user-images.githubusercontent.com/85532743/187110138-1d444b2b-8fd2-44cc-a9ff-278468a351cc.png)  
 
-リモート変わる君本体を接続すると操作できるようになります。
-![image](https://user-images.githubusercontent.com/85532743/187110314-431bd602-04dc-4e8e-96d4-8b42cb8942ef.png)
+リモート変わる君本体をPCと接続すると操作できるようになります。
+![image](https://user-images.githubusercontent.com/85532743/187110314-431bd602-04dc-4e8e-96d4-8b42cb8942ef.png)  
 
-
+---
 
 #### Infrared signal recording
 ## 赤外線信号の記録  
@@ -39,33 +47,94 @@
 まず、保存する箇所を選択します。  
 保存したい箇所の「No.??」のボタンを押してください。   
 ここでは例としてNo.01を選択します。  
-![image](https://user-images.githubusercontent.com/85532743/187111258-c002351b-1b92-4853-9db8-3831d4b6a08e.png)
+![image](https://user-images.githubusercontent.com/85532743/187111258-c002351b-1b92-4853-9db8-3831d4b6a08e.png)  
 
-記録開始をクリックし、赤外線送受信モジュールに向かって記録させたい赤外線リモコン信号などを  
-照射してください。  
-![image](https://user-images.githubusercontent.com/85532743/187110543-50f104f5-7c60-4889-b0ea-3ebc61f76657.png)
+記録開始をクリックし、赤外線送受信モジュールに向かって記録させたい赤外線リモコン信号などを照射してください。  
+![image](https://user-images.githubusercontent.com/85532743/187110543-50f104f5-7c60-4889-b0ea-3ebc61f76657.png)  
 
 信号を送り終えたら記録停止を押してください。
-![image](https://user-images.githubusercontent.com/85532743/187110746-b53b850d-15e3-420f-83aa-0100c79dfa6c.png)
+![image](https://user-images.githubusercontent.com/85532743/187110746-b53b850d-15e3-420f-83aa-0100c79dfa6c.png)  
 
 名称横のテキストボックスに付けたい信号名称を記入し、保存を押してください。
-![image](https://user-images.githubusercontent.com/85532743/187110940-f1be70ec-81ab-471b-8480-919527a7f9b8.png)
+![image](https://user-images.githubusercontent.com/85532743/187605776-8e677cc3-976c-4a5d-968c-80a819e62682.png)    
 
 これでNo.1に赤外線信号が保存されました。
-![image](https://user-images.githubusercontent.com/85532743/187111338-308121b8-c327-4241-87cd-a8a7238f21e4.png)
+![image](https://user-images.githubusercontent.com/85532743/187111338-308121b8-c327-4241-87cd-a8a7238f21e4.png)  
+
+---  
+
+#### button setting
+## ボタン設定  
+
+外付けボタン・本体の確認ボタンを押した際の挙動を設定できます。
+記憶した赤外線信号を送信するための設定をここでする必要があります。
+
+### ボタン入力仕様
+
+ボタン入力かパターン入力、どちらで信号送信を行うか選択出来ます。
+![image](https://user-images.githubusercontent.com/85532743/187604074-49b4b780-5e10-4e56-87b0-b6ad573b4949.png)  
+
+#### ボタン入力 
+ボタン入力の場合、ボタンが押された際に記憶した赤外線信号を送信することが出来ます。  
+送信する赤外線信号を選択したら「設定」を押して書き込みます。  
+![image](https://user-images.githubusercontent.com/85532743/187604833-d115c53e-4558-4940-be51-d04eeb32e4eb.png)  
+  
+![image](https://user-images.githubusercontent.com/85532743/187604990-6023c72c-64b2-4472-8396-46a1d1427dd9.png)  
+  
+---
+  
+#### Input pattern setting
+## 入力パターン設定  
+
+短・長のボタン押しのパターンにより1つのボタンで多数の信号を送信できます。  
+パターン入力を選択すると使用できます。  
+選択後は「設定」を押して書き込んでください。  
+![image](https://user-images.githubusercontent.com/85532743/187606378-ca8c4a2d-17c1-4740-a54c-84897a4f2e78.png)  
+  
+![image](https://user-images.githubusercontent.com/85532743/187606784-779523cb-1534-4a6e-8c90-0c31177850cb.png)  
+
+使用するパターンは「入力パターン設定」より設定を行います。
+入力パターン設定のタブに移動すると設定を行えます。
+![image](https://user-images.githubusercontent.com/85532743/187607572-d314243a-988a-4321-a9d8-401def4b4e95.png)  
+  
+__入力パターン設定タブ__
+![image](https://user-images.githubusercontent.com/85532743/187610206-00d15ded-200d-492a-a4fb-2b8f42bb6e95.png)
+
+①6つまでの短・長のパターンをトリガに赤外線信号を送信できます。  
+「無」のアイコンをダブルクリックすると「短」になります。  
+`「無」→「短」→「長」→「無」...... `  
+これにより入力パターンの設定を行ってください。  
+  
+②パターンに名称をつけることも可能です。パターン名称のテキストボックスをクリックすると入力可能です。  
+
+③送信赤外線No.にそのパターンが入力された際に出力する信号を設定します。
+
+設定が完了したら下の設定ボタンを押して書き込んでください。
+
+少し下の時間設定の項目内で現在入力されたパターンを表示することが出来ます。
 
 
+---
 
-### button setting
-ボタン設定  
+#### Firmware update method
+## ファームウェアアップデート方法  
 
-### Input pattern setting
-入力パターン設定  
+2022/9/9現在 ファームウェアアップデート用のファイルは配布されていません。  
+アップデートは不要です。
 
-## Firmware update method
-ファームウェアアップデート方法  
+---
 
-## Part names,attachments
-各部名称・添付物  
+#### Part names,attachments
+## 各部名称・添付物  
+
+---
 
 ## FAQ
+
+## Q:姉妹品の変わる君と同じ接続で使えますか
+
+
+
+> ### A:変わる君と本製品リモート変わる君の接続は異なります。
+
+変わる君と同じ接続をしないでください。
