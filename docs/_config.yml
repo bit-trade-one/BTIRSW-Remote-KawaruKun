@@ -1,8 +1,7 @@
 theme: minima
 show_downloads: false
 title: リモート変わる君サポートサイト
-author:
-  name: BitTradeOne,LTD.
+
 description: > # this means to ignore newlines until "show_excerpts:"
   Remote-KawaruKun SupportSite
 
