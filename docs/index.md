@@ -16,8 +16,8 @@
 #### ・[赤外線信号の記録](#infrared-signal-recording)
 #### ・[ボタン設定](#button-setting)
 #### ・[入力パターン設定](#input-pattern-setting)
+#### ・[ファームウェアアップデート方法](#firmware-update-method)
 
-### [ファームウェアアップデート方法](#firmware-update-method)
 ### [各部名称・添付物](#part-namesattachments)
 ### [Q&A](#faq)
 
