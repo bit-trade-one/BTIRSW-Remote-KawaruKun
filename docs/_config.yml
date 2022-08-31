@@ -1,5 +1,8 @@
 theme: minima
-title: リモート変わる君サポートサイト
-## logo: 
-description: Remote-KawaruKun SupportSite
 show_downloads: false
+title: リモート変わる君サポートサイト
+author:
+  name: Bit Trade One, LTD.
+description: > # this means to ignore newlines until "show_excerpts:"
+  Remote-KawaruKun SupportSite
+
