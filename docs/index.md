@@ -4,6 +4,7 @@
 下記項目リンクよりご覧になりたい情報にクリックすると該当部分へ移動します。  
 
 ### [リモート変わる君HPリンク](http://bit-trade-one.co.jp/btirsw)
+### [開発情報(GitHub)](https://github.com/bit-trade-one/BTIRSW-Remote-KawaruKun)
 
 # 項目リンク
 
