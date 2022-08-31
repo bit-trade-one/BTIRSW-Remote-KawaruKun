@@ -6,6 +6,8 @@
 ### [リモート変わる君HPリンク](http://bit-trade-one.co.jp/btirsw)
 ### [開発情報(GitHub)](https://github.com/bit-trade-one/BTIRSW-Remote-KawaruKun)
 
+---
+
 # 項目リンク
 
 ### [ダウンロードファイル](#downloadfile)  
@@ -18,6 +20,8 @@
 ### [ファームウェアアップデート方法](#firmware-update-method)
 ### [各部名称・添付物](#part-namesattachments)
 ### [Q&A](#faq)
+
+---
 
 ---
 
