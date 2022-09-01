@@ -70,6 +70,17 @@ BTIRSW リモート変わる君を使用する際に必要になる情報を掲�
 これでNo.1に赤外線信号が保存されました。
 ![image](https://user-images.githubusercontent.com/85532743/187111338-308121b8-c327-4241-87cd-a8a7238f21e4.png)  
 
+送信ボタンを押すと、記録した信号をテストで送信できます。  
+この信号を送信しても対応した機器が反応しない場合、信号記憶を正しく行えなかった可能性があります。  
+機器が反応するまで再度信号を記憶させてください。  
+  
+![image](https://user-images.githubusercontent.com/85532743/187811703-39ec9739-2427-4b97-b77f-bc9042bf570b.png)  
+
+記憶した信号をファイルに書き出してバックアップが可能です。複数台に同じ設定を書き込むのにも便利です。  
+  
+![image](https://user-images.githubusercontent.com/85532743/187813520-02428e2b-d0cc-46e0-9e6a-083e89997dfb.png)  
+
+
 ---  
 
 #### button setting
