@@ -151,8 +151,32 @@ __入力パターン設定タブ__
 #### Firmware update method
 ## ファームウェアアップデート方法  
 
-2022/9/9現在 ファームウェアアップデート用のファイルは配布されていません。  
-アップデートは不要です。
+1．ファームウェア書き込みツールを以下よりダウンロード・PCの任意の場所に保存します。  
+
+[ファームウェア書き込みツール(最新v100)ダウンロードリンク](https://github.com/bit-trade-one/BTIRSW-Remote-KawaruKun/raw/master/FWUpdateTool/RemoteKawarukunUpdate_v100.zip)
+
+>ファームウェアはハードウェアの中に書き込まれているソフトウェアのことを指します。  
+>不具合修正や機能追加された新しいファームウェアが公開された際、  
+>ファームウェアをアップデートすることで新しい機能が使用できます。  
+
+2.保存したファイルを展開してファームウェア書き込みツールを起動します。  
+![image](https://user-images.githubusercontent.com/85532743/208588712-f27606ff-7211-4da2-a958-b6527d65eaa8.png)
+
+3．テスト用 SW1 と 2 を押しながら、パソコンの USB コネクタに接続し、本体をブートモードにします。   
+赤 LED と青 LED が交互に点滅することを確認します   
+![image](https://user-images.githubusercontent.com/85532743/208570853-7a319eb6-816f-461b-9289-06e1eae36b5a.png)  
+
+また、設定ソフトの右下よりブートモードにすることも可能です。  
+![image](https://user-images.githubusercontent.com/85532743/208586409-7d9cd87e-c3c1-4dba-9220-3a06eeedbbcb.png)  
+
+4．Updateボタンを押すと書き換えが始まり、  
+![image](https://user-images.githubusercontent.com/85532743/208585842-181f3484-39ae-4d59-b704-44b9924dc47f.png)  
+「Verification successfull」が表示されれば完了です。  
+![image](https://user-images.githubusercontent.com/85532743/208585932-a167aa07-6971-49e6-8a73-2b0975c3e4e0.png)  
+
+
+5．パソコンの USB コネクタから一旦取り外し、再度機器を接続してお使いください。  
+  
 
 ---
 
